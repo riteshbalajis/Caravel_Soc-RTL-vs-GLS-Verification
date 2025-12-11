@@ -1,1 +1,0 @@
-# Caravel_Soc-RTL-vs-GLS-Verification
